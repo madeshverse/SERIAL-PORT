@@ -148,5 +148,7 @@ END
 ### OUTPUT:
 <img width="791" height="787" alt="image" src="https://github.com/user-attachments/assets/271d3b00-c338-4ab3-824c-3567d1270673" />
 
+<img width="1112" height="556" alt="image" src="https://github.com/user-attachments/assets/ec72b443-edcd-4fab-890f-f0b02afe4ff4" />
+
 ### RESULT:
 Thus the Serial transfer of Single Byte / Character using 8051 KEIL was done and shown the output.
